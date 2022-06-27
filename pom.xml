@@ -3,7 +3,7 @@
   <groupId>ISIDrone</groupId>
   <artifactId>ISIDroneProject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <packaging>ear</packaging>
  <modules>
 	 <module>ISIDrone</module>
 </modules>
